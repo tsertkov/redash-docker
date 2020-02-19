@@ -18,4 +18,7 @@ Run `docker-compose` normally.
 
 ## Uninstall
 
-`docker-compose down -v`
+```bash
+$ docker-compose down -v
+$ rm dot-env
+```
