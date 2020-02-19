@@ -1,8 +1,8 @@
 # Redash dockerized
 
-Redash dockerized bundle. The simplest way to run Redash.
+The simplest way to run Redash. 
 
-See https://github.com/getredash/setup.
+Please see https://github.com/getredash/setup for a default approach.
 
 ## Prerequisites
 
