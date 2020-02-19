@@ -12,6 +12,10 @@ docker, docker-compose
 
 Execute `./install.sh` and access redash at http://localhost.
 
+## Usage
+
+Run `docker-compose` normally.
+
 ## Uninstall
 
 `docker-compose down -v`
