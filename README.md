@@ -4,7 +4,7 @@ Redash dockerized bundle.
 
 See https://github.com/getredash/setup.
 
-## Prerequisities
+## Prerequisites
 
 docker, docker-compose
 
