@@ -1,4 +1,6 @@
-# Redash dockerized
+# Redash dockerized 
+
+<a><img src="https://img.shields.io/badge/redash-docker-brightgreen?style=flat-square&logo=docker&logoColor=white" /></a>
 
 The simplest way to run Redash. 
 
