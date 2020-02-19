@@ -2,7 +2,7 @@
 
 The simplest way to run Redash. 
 
-Please see https://github.com/getredash/setup for a default approach.
+See https://github.com/getredash/setup for default approach.
 
 ## Prerequisites
 
